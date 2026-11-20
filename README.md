@@ -206,16 +206,6 @@ O projeto trabalha com três entidades principais:
 - A configuração de CORS presente no projeto permite qualquer origem, método e cabeçalho. Para produção, restrinja as origens conforme a aplicação cliente.
 - O ZIP analisado não inclui testes automatizados nem um projeto de frontend Blazor.
 
-## Contribuição
-
-Contribuições são bem-vindas!
-
-1. Faça um fork do projeto.
-2. Crie uma branch para sua alteração (`git checkout -b feature/minha-alteracao`).
-3. Faça commit das alterações (`git commit -m "feat: minha alteração"`).
-4. Envie a branch (`git push origin feature/minha-alteracao`).
-5. Abra um Pull Request.
-
 ## Licença
 
 Nenhuma licença foi identificada nos arquivos fornecidos. Antes de redistribuir ou reutilizar o projeto, defina e inclua uma licença apropriada neste repositório.
